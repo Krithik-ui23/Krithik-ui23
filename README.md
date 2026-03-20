@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krithik%20Krishna%20Bhat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Healthcare%20Tech%20%7C%20Problem%20Solver&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krithik%20Krishna%20Bhat&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Tech%20%7C%20Problem%20Solver&descAlignY=55&descSize=16"/>
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF3333&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Krithik+%F0%9F%91%8B;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Healthcare+Tech+Solutions+%F0%9F%A9%B8;Python+%2B+Flask+%2B+SQL+%2B+JS+%F0%9F%94%A5;Turning+ideas+into+real+products+%F0%9F%9A%80)](https://git.io/typing-svg)
