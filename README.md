@@ -32,7 +32,7 @@ class KrithikKrishnaBhat:
     learning   = ["TypeScript", "System Design", "Cloud Architecture"]
     goal       = "Building high-performance software that solves real problems"
 
-    fun_fact   = "I built a real-time crypto tracker with Supabase WebSockets ⚡"
+  
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something impactful together 🚀")
@@ -46,7 +46,10 @@ class KrithikKrishnaBhat:
 
 <div align="center">
 
+
+
 ### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,17 +57,25 @@ class KrithikKrishnaBhat:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-8884d8?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 ### Database & Tools
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### APIs & Deployment
+![CoinGecko](https://img.shields.io/badge/CoinGecko-API-8DC63F?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 </div>
 
 <br>
@@ -84,6 +95,14 @@ class KrithikKrishnaBhat:
 ║   with patients in real time across Vijayawada & Amaravati       ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║      📈  C R Y P T O T R A C K  —  Crypto Tracker  📈            ║
+║                                                                  ║
+║   A full-stack cryptocurrency tracker with real-time updates     ║
+║   portfolio tracking, and live market insights                   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -101,8 +120,23 @@ class KrithikKrishnaBhat:
 | 🔐 **Admin Portal** | Token-protected CRUD access to all users, alerts, donations and appointments |
 | 📧 **Email Notifications** | Beautiful HTML emails sent in background threads with zero API latency |
 
+| Feature | Description |
+|:---|:---|
+| 📊 **Real-Time Market Engine** | Continuously fetches and updates top 50 crypto assets with minimal latency |
+| 📈 **Advanced Charting** | Multi-range interactive price visualization for trend analysis |
+| ⭐ **Realtime Watchlist System** | Cross-tab synchronized watchlist powered by Supabase Realtime |
+| 💼 **Portfolio Analytics** | Tracks investments, returns and portfolio performance dynamically |
+| 🔍 **Optimized Search** | Debounced, fast search with instant result rendering |
+| 🌙 **Persistent Theming** | System-aware dark mode with user preference override |
+| 🔐 **Secure Auth Layer** | Role-based protected routes using Supabase authentication |
+| ⚡ **Event-Driven Updates** | WebSocket-based live data sync without polling |
+| 📡 **Server-Side API Layer** | Next.js route handlers act as a secure proxy + caching layer |
+
+
+
 ### Tech used
 `Python` `Flask` `SQLite` `HTML/CSS/JS` `Leaflet.js` `Chart.js` `Gmail SMTP` `REST API`
+'Next.js' 'TypeScript' 'Supabase' 'React Query 'Recharts' 'CoinGecko API' 'Tailwind CSS' 'Vercel'
 
 ### Numbers
 ```
@@ -110,6 +144,9 @@ class KrithikKrishnaBhat:
 10   real hospitals seeded    3    HTML email templates
 56   day cooldown logic       1    admin portal with live search
 ```
+50   live coins tracked       Realtime updates every 30s
+6+   API routes               2    core DB tables
+100% Type-safe codebase       Full auth + protected routes
 
 [![View Project](https://img.shields.io/badge/View_Project-LifeStream-red?style=for-the-badge&logo=github&color=cc0000)](https://github.com/Krithik-ui23/LifeStream)
 
